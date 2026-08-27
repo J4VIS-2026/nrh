@@ -1,0 +1,7 @@
+* text=auto eol=lf
+
+# 바이너리 — 줄바꿈을 절대 건드리지 않는다
+*.onnx binary
+*.mp4 binary
+*.tgz binary
+*.whl binary

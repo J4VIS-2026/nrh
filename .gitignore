@@ -1,0 +1,15 @@
+node_modules/
+
+# 데이터·산출물 — **저장소에 넣지 않는다**
+# 촬영 영상에는 번호판·얼굴이 보이고, AI Hub 파생물은 재배포가 금지돼 있다.
+*.mp4
+*.jsonl
+fixtures/
+data/
+output/
+
+# 편집기·OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
